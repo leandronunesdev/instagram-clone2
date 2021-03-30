@@ -33,7 +33,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 $ git clone <https://github.com/leandronunesdev/instagram-clone>
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd instagram-clone
+$ cd instagram-clone2
 
 # Instale as dependências
 $ npm install 
