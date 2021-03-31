@@ -1,7 +1,7 @@
 import axios from "axios";
 import { useRef } from "react";
 import { useDispatch, useSelector } from "react-redux";
-import { getPosts } from "../../store/ducks/posts/actions";
+import { postPosts } from "../../store/ducks/posts/actions";
 
 const Form  = () => {
 
@@ -12,25 +12,19 @@ const Form  = () => {
 
   const user = useSelector((state: any) => state.user)
 
-  const updatePosts = () => {
-    axios.get("http://localhost:4000/posts")
-    .then(resposta => dispatch(getPosts(resposta.data)))
-  }
-
   const enviarPost = () => {
 
     const requisicao = {
       postPicture: inputPostPicture.current?.value,
       description: inputDescription.current?.value,
       user: user.username,
-      userPicture: user.userPicture
+      userPicture: user.userPicture,
+      likes: 0
     }
 
     axios.post("http://localhost:4000/posts", requisicao)
-    updatePosts()
-    updatePosts()
-  }
-  
+    .then(resposta => dispatch(postPosts(resposta.data)))
+  }  
 
   return (
       <div className="form">

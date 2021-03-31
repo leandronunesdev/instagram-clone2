@@ -3,106 +3,59 @@
     {
       "id": 2,
       "user": "history",
-      "userPicture": "https://randomuser.me/api/portraits/men/22.jpg",
+      "userPicture": "https://pbs.twimg.com/profile_images/1323296791060729856/knWLBrkl_400x400.jpg",
       "postPicture": "https://historycouk.s3.eu-west-2.amazonaws.com/s3fs-public/styles/860x300/public/2020-07/orson-welles-war-worlds.jpg",
       "description": "On #ThisDayinHistory 1938, Orson Welles caused a nationwide panic with his broadcast of “War of the Worlds”—a realistic radio dramatization of a Martian invasion of Earth",
-      "likes": 210
+      "likes": 240
     },
     {
       "id": 3,
       "user": "nasa",
-      "userPicture": "https://randomuser.me/api/portraits/women/17.jpg",
+      "userPicture": "https://pbs.twimg.com/profile_images/1321163587679784960/0ZxKlEKB_400x400.jpg",
       "postPicture": "https://blogs.esa.int/iriss/files/2015/09/20457019454_7de78eff73_o.jpg",
       "location": "Space",
       "description": "Waving goodbye to a spacecraft.",
-      "likes": 20
+      "likes": 25
     },
     {
       "id": 4,
-      "user": "nasa",
-      "userPicture": "https://randomuser.me/api/portraits/women/27.jpg",
+      "user": "natgeo",
+      "userPicture": "https://pbs.twimg.com/profile_images/1361743494801461254/lm_j2VxP_400x400.png",
       "postPicture": "https://www.publicdomainpictures.net/pictures/90000/velka/mars.jpg",
       "location": "Mars",
       "description": "🧭 Explorer, 📸 photographer, ⛰️ geologist, 🧪 chemist... Mars Curiosity does it all!⁣",
       "likes": 9
-    },
-    {
-      "postPicture": "https://fisioanimal.com/blog/wp-content/uploads/2019/06/Filhote-Cachorro-900x628.jpg",
-      "inputDescription": "Cachorro",
-      "id": 5
-    },
-    {
-      "postPicture": "https://fisioanimal.com/blog/wp-content/uploads/2019/06/Filhote-Cachorro-900x628.jpg",
-      "inputDescription": "Doguinho",
-      "user": "jenicarvalho",
-      "userPicture": "https://randomuser.me/api/portraits/women/21.jpg",
-      "id": 6
-    },
-    {
-      "postPicture": "https://www.maxtotalalimentos.com.br/img/seo/11/461/leite-para-filhote-cachorro-qual-e-tipo-certo.jpg",
-      "inputDescription": "Catioro",
-      "user": "jenicarvalho",
-      "userPicture": "https://randomuser.me/api/portraits/women/21.jpg",
-      "id": 7
-    },
-    {
-      "postPicture": "https://static.ricmais.com.br/uploads/2020/05/conheca-mais-sobre-os-habitos-da-capivara-comum-em-curitiba-900x600.jpeg",
-      "description": "Capivara",
-      "user": "jenicarvalho",
-      "userPicture": "https://randomuser.me/api/portraits/women/21.jpg",
-      "id": 8
-    },
-    {
-      "postPicture": "https://img.r7.com/images/ciclovia-marginal-pinheiros-centro-apoio-capivaras-21092020134325546",
-      "description": "Capi",
-      "user": "jenicarvalho",
-      "userPicture": "https://randomuser.me/api/portraits/women/21.jpg",
-      "id": 9
-    },
-    {
-      "postPicture": "https://img.r7.com/images/ciclovia-marginal-pinheiros-centro-apoio-capivaras-21092020134325546",
-      "description": "Capi",
-      "user": "jenicarvalho",
-      "userPicture": "https://randomuser.me/api/portraits/women/21.jpg",
-      "id": 10
-    },
-    {
-      "postPicture": "https://i.pinimg.com/736x/01/18/8c/01188cc39a1fda12d67a14faa46491e7.jpg",
-      "description": "Hipopotamo",
-      "user": "jenicarvalho",
-      "userPicture": "https://randomuser.me/api/portraits/women/21.jpg",
-      "id": 11
     }
   ],
   "stories": [
     {
       "id": 11,
       "user": "natgeo",
-      "userPicture": "https://randomuser.me/api/portraits/men/11.jpg",
+      "userPicture": "https://pbs.twimg.com/profile_images/1361743494801461254/lm_j2VxP_400x400.png",
       "time": "há 22 minutos"
     },
     {
       "id": 22,
       "user": "nasa",
-      "userPicture": "https://randomuser.me/api/portraits/women/18.jpg",
+      "userPicture": "https://pbs.twimg.com/profile_images/1321163587679784960/0ZxKlEKB_400x400.jpg",
       "time": "há 30 minutos"
     },
     {
       "id": 33,
       "user": "history",
-      "userPicture": "https://randomuser.me/api/portraits/women/20.jpg",
+      "userPicture": "https://pbs.twimg.com/profile_images/1323296791060729856/knWLBrkl_400x400.jpg",
       "time": "há 2 horas"
     },
     {
       "id": 44,
       "user": "discovery",
-      "userPicture": "https://randomuser.me/api/portraits/men/2.jpg",
+      "userPicture": "https://pbs.twimg.com/profile_images/1365752007932411907/QfgrHhuC_400x400.jpg",
       "time": "há 7 horas"
     }
   ],
   "user": {
-    "name": "Jeniffer",
-    "username": "jenicarvalho",
-    "userPicture": "https://randomuser.me/api/portraits/women/21.jpg"
+    "name": "Leandro Nunes",
+    "username": "leandronunesdev",
+    "userPicture": "https://avatars.githubusercontent.com/u/60386045?v=4"
   }
 }

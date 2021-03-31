@@ -1,6 +1,7 @@
 export enum PostTypes {
   GET_POSTS = 'GET_POSTS',
-  LIKE_POST = 'LIKE_POST'
+  PATCH_POSTS = 'PATCH_POSTS',
+  POST_POSTS = 'POST_POSTS'
 }
 
 export interface PostItem {
