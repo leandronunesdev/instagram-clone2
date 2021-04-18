@@ -6,7 +6,7 @@
       "userPicture": "https://pbs.twimg.com/profile_images/1323296791060729856/knWLBrkl_400x400.jpg",
       "postPicture": "https://historycouk.s3.eu-west-2.amazonaws.com/s3fs-public/styles/860x300/public/2020-07/orson-welles-war-worlds.jpg",
       "description": "On #ThisDayinHistory 1938, Orson Welles caused a nationwide panic with his broadcast of “War of the Worlds”—a realistic radio dramatization of a Martian invasion of Earth",
-      "likes": 240
+      "likes": 241
     },
     {
       "id": 3,
@@ -15,23 +15,31 @@
       "postPicture": "https://blogs.esa.int/iriss/files/2015/09/20457019454_7de78eff73_o.jpg",
       "location": "Space",
       "description": "Waving goodbye to a spacecraft.",
-      "likes": 25
+      "likes": 26
     },
     {
       "id": 4,
       "user": "natgeo",
-      "userPicture": "https://pbs.twimg.com/profile_images/1361743494801461254/lm_j2VxP_400x400.png",
+      "userPicture": "https://pbs.twimg.com/profile_images/1383057272998354948/fi8a91e4_400x400.jpg",
       "postPicture": "https://www.publicdomainpictures.net/pictures/90000/velka/mars.jpg",
       "location": "Mars",
       "description": "🧭 Explorer, 📸 photographer, ⛰️ geologist, 🧪 chemist... Mars Curiosity does it all!⁣",
-      "likes": 9
+      "likes": 12
+    },
+    {
+      "postPicture": "https://cptstatic.s3.amazonaws.com/imagens/enviadas/materias/materia10372/3criacao-de-capivaras-curso-cpt.jpg",
+      "description": "Capivara <3",
+      "user": "leandronunesdev",
+      "userPicture": "https://avatars.githubusercontent.com/u/60386045?v=4",
+      "likes": 1,
+      "id": 5
     }
   ],
   "stories": [
     {
       "id": 11,
       "user": "natgeo",
-      "userPicture": "https://pbs.twimg.com/profile_images/1361743494801461254/lm_j2VxP_400x400.png",
+      "userPicture": "https://pbs.twimg.com/profile_images/1383057272998354948/fi8a91e4_400x400.jpg",
       "time": "há 22 minutos"
     },
     {
@@ -49,7 +57,7 @@
     {
       "id": 44,
       "user": "discovery",
-      "userPicture": "https://pbs.twimg.com/profile_images/1365752007932411907/QfgrHhuC_400x400.jpg",
+      "userPicture": "https://pbs.twimg.com/profile_images/1379863032289955840/Wc3MpDzT_400x400.jpg",
       "time": "há 7 horas"
     }
   ],
