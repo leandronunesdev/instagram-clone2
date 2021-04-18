@@ -4,6 +4,7 @@
 
 <p align="center">
  <a href="#features">Features</a> •
+ <a href="#demo">Demonstração da aplicação</a> •
  <a href="#pre-requisitos">Pré-requisitos</a> •
  <a href="#tecnologias">Tecnologias</a> • 
  <a href="#autor">Autor</a>
@@ -19,6 +20,11 @@
 - [x] Atualizar lista de posts automaticamente
 - [x] Contabilizar "likes"
 
+<h1 id="demo">Demonstração da aplicação</h1>
+
+<h1 align="center">
+  <img alt="InstagramClone" title="#InstagramClone" src="./src/assets/instagram.gif" />
+</h1>
 
 <h1 id="pre-requisitos">Pré-requisitos</h1>
 
